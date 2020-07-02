@@ -55,6 +55,15 @@
     justify-content: center;
     flex-wrap: wrap;
 }
+.ThankU{
+    display: flex;
+    justify-content: center;
+        margin-top: 20px;
+}
+#text{
+    color: rgba(42,5,77,1);
+    text-align: center;
+}
 h1{
     font-family: "Rubik";
     font-size: 40px;
